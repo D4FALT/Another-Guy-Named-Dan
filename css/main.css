@@ -272,10 +272,15 @@ body {
 }
 
 .album-info {
-  color: #f9f9f9;
-  flex: 1;
-  padding-right: 60px;
-  user-select: none;
+  padding: 2px 2px;
+  border-radius: 18px;
+  box-shadow: 0px 4px 30px -6px rgba(36, 52, 70, 0.508);
+  background: #24292ec2;
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
 }
 @media screen and (max-width: 576px), (max-height: 500px) {
   .album-info {
