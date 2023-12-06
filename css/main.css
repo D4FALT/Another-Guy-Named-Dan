@@ -332,7 +332,7 @@ body {
   .container {
     position: relative;
     bottom: auto;
-    right: auto;
+    left: auto;
     margin-top: 20px;
   }
   .container:active {
