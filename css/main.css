@@ -309,7 +309,7 @@ body {
 }
 .container {
   position: absolute;
-  left: 40px;
+  right: 40px;
   bottom: 50px;
   text-decoration: none;
   padding: 15px 25px;
