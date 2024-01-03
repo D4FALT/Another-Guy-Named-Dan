@@ -85,7 +85,7 @@ new Vue({
         {
          name: "Just a goofy beat",
           artist: "Another Guy Named Dan",
-          cover: "https://raw.githubusercontent.com/D4FALT/Musicas/main/img/10.jpg",
+          cover: "https://raw.githubusercontent.com/D4FALT/Musicas/main/img/10.PNG",
           source: "https://raw.github.com/D4FALT/Musicas/main/mp3/10.mp3",
           url: "https://www.youtube.com/watch?v=Nb2dXlEXQZM",
           favorited: false
