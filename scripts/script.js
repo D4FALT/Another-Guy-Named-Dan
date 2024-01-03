@@ -88,7 +88,7 @@ new Vue({
           source: "https://raw.github.com/D4FALT/Musicas/main/mp3/10.mp3",
           url: "https://www.youtube.com/watch?v=Nb2dXlEXQZM",
           favorited: false
-    }
+    },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
